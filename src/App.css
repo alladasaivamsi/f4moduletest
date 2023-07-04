@@ -71,3 +71,7 @@ a {
   align-items: center;
   margin-top: 100px;
 }
+
+.readMore {
+  color: red;
+}
