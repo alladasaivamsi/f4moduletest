@@ -26,7 +26,7 @@ const ProductComponent = () => {
                   <strong>Title : {title}</strong>
                 </div>
                 <div className="body">
-                  <strong>Body : {body.slice(0, 50)}</strong>
+                  <strong>Body : {body.slice(0, 50)}......</strong>
                 </div>
                 <p>
                   <strong>Read More...</strong>
