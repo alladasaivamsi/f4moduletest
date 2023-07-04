@@ -29,7 +29,7 @@ const ProductComponent = () => {
                   <strong>Body : {body.slice(0, 50)}......</strong>
                 </div>
                 <p>
-                  <strong>Read More...</strong>
+                 <strong className="readMore">Read More...</strong>
                 </p>
               </div>
             </div>
